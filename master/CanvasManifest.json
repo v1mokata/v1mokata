@@ -116,7 +116,7 @@
     "Id": "8361dbf6-bb59-4613-b68a-865a89481324",
     "InstrumentationKey": "",
     "LocalDatabaseReferences": "",
-    "ManualOfflineProfileId": null,
+    "ManualOfflineProfileId": "",
     "Name": "ラベル表示アプリ",
     "OriginatingVersion": "1.342",
     "ParserErrorCount": 0,
